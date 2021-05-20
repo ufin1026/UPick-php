@@ -73,10 +73,9 @@
 </head>
 
 
-<body>
+<body  style="background-color:#383E44">
     <!--navbar-->
     <?php include __DIR__ . '/../../parts/html_navbar.php' ?>
-    <div class="container up-container">
     <!-- 分享頁面 -->
     <div class="wWhitePgAreaHTML9">
         <div class="wShareDark windowShare">
@@ -157,8 +156,9 @@
                 console.log('hi');
                 $('.wWhitePgAreaHTML9').show();
                 $('.up-container').parent().addClass('cover'); //顯示遮罩層
-
+                $('body').removeClass('cover')
             });
+            
             $('.wWinDarkClo').click(function () {
                 $('.wWhitePgAreaHTML9').hide();
                 console.log('hello');
