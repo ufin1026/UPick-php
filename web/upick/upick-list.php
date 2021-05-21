@@ -74,8 +74,7 @@
 
 
 <body  style="background-color:#383E44">
-    <!--navbar-->
-    <?php include __DIR__ . '/../../parts/html_navbar.php' ?>
+    
     <!-- 分享頁面 -->
     <div class="wWhitePgAreaHTML9">
         <div class="wShareDark windowShare">
