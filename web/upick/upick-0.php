@@ -28,18 +28,18 @@
         <div class="col-lg-8 col-sm-12 up-table-frame ">
             <!-- title -->
             <div class="up-table-title row">
-                <div class="col-2 item">品項</div>
-                <div class="col-2 brand">品牌</div>
-                <div class="col-4 productname">商品名稱</div>
-                <div class="col itemprice">單價</div>
-                <div class="col amount">數量</div>
-                <div class="col sub">小計</div>
-                <div class="col add"></div>
+                <div class="item">品項</div>
+                <div class="brand">品牌</div>
+                <div class="productname">商品名稱</div>
+                <div class="itemprice">單價</div>
+                <div class="amount">數量</div>
+                <div class="sub">小計</div>
+                <div class="add"></div>
             </div>
             <!-- 主題機 -->
             <div class="up-table row">
-                <div class="col-2 item">主題機</div>
-                <div class="col-2 brand">
+                <div class="item">主題機</div>
+                <div class="brand">
                     <form class="widget brand">
                         <select name="brand">
                             <option>商品名稱</option>
@@ -60,7 +60,7 @@
                         </div>
                     </form>
                 </div>
-                <div class="col-4 productname">
+                <div class="productname">
                     <form class="widget productname">
                         <select name="productname">
                             <option>商品名稱</option>
@@ -82,8 +82,8 @@
                         </div>
                     </form>
                 </div>
-                <div class="col itemprice">$0</div>
-                <div class="col amount">
+                <div class="itemprice">$1000</div>
+                <div class="amount">
                     <form class="widget amount">
                         <select name="amount">
                             <option>數量</option>
@@ -105,8 +105,8 @@
                         </div>
                     </form>
                 </div>
-                <div class="col sub price">$0</div>
-                <div class="col add">
+                <div class="sub price">$1000</div>
+                <div class="add">
                     <span>
                         <i class="fas fa-plus-circle "></i>
                     </span>
@@ -118,8 +118,8 @@
             </div>
             <!-- CPU -->
             <div class="up-table row">
-                <div class="col-2 item">中央處理器</div>
-                <div class="col-2 brand">
+                <div class="item">中央處理器</div>
+                <div class="brand">
                     <form class="widget brand">
                         <select name="brand">
                             <option>商品名稱</option>
@@ -140,7 +140,7 @@
                         </div>
                     </form>
                 </div>
-                <div class="col-4 productname">
+                <div class="productname">
                     <form class="widget productname">
                         <select name="productname">
                             <option>商品名稱</option>
@@ -162,8 +162,8 @@
                         </div>
                     </form>
                 </div>
-                <div class="col itemprice">$0</div>
-                <div class="col amount">
+                <div class="itemprice">$1000</div>
+                <div class="amount">
                     <form class="widget amount">
                         <select name="amount">
                             <option>商品名稱</option>
@@ -185,8 +185,8 @@
                         </div>
                     </form>
                 </div>
-                <div class="col sub price">$0</div>
-                <div class="col add" id="add">
+                <div class="sub price">$1000</div>
+                <div class="add" id="add">
                     <span>
                         <i class="fas fa-plus-circle "></i>
                     </span>
@@ -194,8 +194,8 @@
             </div>
             <!-- 主機板 MB -->
             <div class="up-table row">
-                <div class="col-2 item">主機板 MB</div>
-                <div class="col-2 brand">
+                <div class="item">主機板 MB</div>
+                <div class="brand">
                     <form class="widget brand">
                         <select name="brand">
                             <option>商品名稱</option>
@@ -216,7 +216,7 @@
                         </div>
                     </form>
                 </div>
-                <div class="col-4 productname">
+                <div class="productname">
                     <form class="widget productname">
                         <select name="productname">
                             <option>商品名稱</option>
@@ -238,8 +238,8 @@
                         </div>
                     </form>
                 </div>
-                <div class="col itemprice">$0</div>
-                <div class="col amount">
+                <div class="itemprice">$1000</div>
+                <div class="amount">
                     <form class="widget amount">
                         <select name="amount">
                             <option>商品名稱</option>
@@ -261,8 +261,8 @@
                         </div>
                     </form>
                 </div>
-                <div class="col sub price">$0</div>
-                <div class="col add">
+                <div class="sub price">$1000</div>
+                <div class="add">
                     <span>
                         <i class="fas fa-plus-circle "></i>
                     </span>
@@ -270,8 +270,8 @@
             </div>
             <!-- 記憶體 RAM -->
             <div class="up-table row">
-                <div class="col-2 item">記憶體 RAM</div>
-                <div class="col-2 brand">
+                <div class="item">記憶體 RAM</div>
+                <div class="brand">
                     <form class="widget brand">
                         <select name="brand">
                             <option>商品名稱</option>
@@ -292,7 +292,7 @@
                         </div>
                     </form>
                 </div>
-                <div class="col-4 productname">
+                <div class="productname">
                     <form class="widget productname">
                         <select name="productname">
                             <option>商品名稱</option>
@@ -314,8 +314,8 @@
                         </div>
                     </form>
                 </div>
-                <div class="col itemprice">$0</div>
-                <div class="col amount">
+                <div class="itemprice">$1000</div>
+                <div class="amount">
                     <form class="widget amount">
                         <select name="amount">
                             <option>商品名稱</option>
@@ -337,8 +337,8 @@
                         </div>
                     </form>
                 </div>
-                <div class="col sub price">$0</div>
-                <div class="col add">
+                <div class="sub price">$1000</div>
+                <div class="add">
                     <span>
                         <i class="fas fa-plus-circle "></i>
                     </span>
@@ -346,8 +346,8 @@
             </div>
             <!-- 固態硬碟 SSD -->
             <div class="up-table row">
-                <div class="col-2 item">固態硬碟 SSD</div>
-                <div class="col-2 brand">
+                <div class="item">固態硬碟 SSD</div>
+                <div class="brand">
                     <form class="widget brand">
                         <select name="brand">
                             <option>商品名稱</option>
@@ -368,7 +368,7 @@
                         </div>
                     </form>
                 </div>
-                <div class="col-4 productname">
+                <div class="productname">
                     <form class="widget productname">
                         <select name="productname">
                             <option>商品名稱</option>
@@ -390,8 +390,8 @@
                         </div>
                     </form>
                 </div>
-                <div class="col itemprice">$0</div>
-                <div class="col amount">
+                <div class="itemprice">$1000</div>
+                <div class="amount">
                     <form class="widget amount">
                         <select name="amount">
                             <option>商品名稱</option>
@@ -413,8 +413,8 @@
                         </div>
                     </form>
                 </div>
-                <div class="col sub price">$0</div>
-                <div class="col add">
+                <div class="sub price">$1000</div>
+                <div class="add">
                     <span>
                         <i class="fas fa-plus-circle "></i>
                     </span>
@@ -422,8 +422,8 @@
             </div>
             <!-- 顯示卡 VGA -->
             <div class="up-table row">
-                <div class="col-2 item">顯示卡 VGA</div>
-                <div class="col-2 brand">
+                <div class="item">顯示卡 VGA</div>
+                <div class="brand">
                     <form class="widget brand">
                         <select name="brand">
                             <option>商品名稱</option>
@@ -444,7 +444,7 @@
                         </div>
                     </form>
                 </div>
-                <div class="col-4 productname">
+                <div class="productname">
                     <form class="widget productname">
                         <select name="productname">
                             <option>商品名稱</option>
@@ -466,8 +466,8 @@
                         </div>
                     </form>
                 </div>
-                <div class="col itemprice">$0</div>
-                <div class="col amount">
+                <div class="itemprice">$1000</div>
+                <div class="amount">
                     <form class="widget amount">
                         <select name="amount">
                             <option>商品名稱</option>
@@ -489,8 +489,8 @@
                         </div>
                     </form>
                 </div>
-                <div class="col sub price">$0</div>
-                <div class="col add">
+                <div class="sub price">$1000</div>
+                <div class="add">
                     <span>
                         <i class="fas fa-plus-circle "></i>
                     </span>
@@ -498,8 +498,8 @@
             </div>
             <!-- 電源供應器 -->
             <div class="up-table row">
-                <div class="col-2 item">電源供應器</div>
-                <div class="col-2 brand">
+                <div class="item">電源供應器</div>
+                <div class="brand">
                     <form class="widget brand">
                         <select name="brand">
                             <option>商品名稱</option>
@@ -520,7 +520,7 @@
                         </div>
                     </form>
                 </div>
-                <div class="col-4 productname">
+                <div class="productname">
                     <form class="widget productname">
                         <select name="productname">
                             <option>商品名稱</option>
@@ -542,8 +542,8 @@
                         </div>
                     </form>
                 </div>
-                <div class="col itemprice">$0</div>
-                <div class="col amount">
+                <div class="itemprice">$1000</div>
+                <div class="amount">
                     <form class="widget amount">
                         <select name="amount">
                             <option>商品名稱</option>
@@ -565,8 +565,8 @@
                         </div>
                     </form>
                 </div>
-                <div class="col sub price">$0</div>
-                <div class="col add">
+                <div class="sub price">$1000</div>
+                <div class="add">
                     <span>
                         <i class="fas fa-plus-circle "></i>
                     </span>
@@ -574,8 +574,8 @@
             </div>
             <!-- 電腦機殼 CASE -->
             <div class="up-table row">
-                <div class="col-2 item">電腦機殼 CASE</div>
-                <div class="col-2 brand">
+                <div class="item">電腦機殼 CASE</div>
+                <div class="brand">
                     <form class="widget brand">
                         <select name="brand">
                             <option>商品名稱</option>
@@ -596,7 +596,7 @@
                         </div>
                     </form>
                 </div>
-                <div class="col-4 productname">
+                <div class="productname">
                     <form class="widget productname">
                         <select name="productname">
                             <option>商品名稱</option>
@@ -618,8 +618,8 @@
                         </div>
                     </form>
                 </div>
-                <div class="col itemprice">$0</div>
-                <div class="col amount">
+                <div class="itemprice">$1000</div>
+                <div class="amount">
                     <form class="widget amount">
                         <select name="amount">
                             <option>商品名稱</option>
@@ -641,8 +641,8 @@
                         </div>
                     </form>
                 </div>
-                <div class="col sub price">$0</div>
-                <div class="col add">
+                <div class="sub price">$1000</div>
+                <div class="add">
                     <span>
                         <i class="fas fa-plus-circle "></i>
                     </span>
@@ -650,8 +650,8 @@
             </div>
             <!-- 鍵盤 / 滑鼠 -->
             <div class="up-table row">
-                <div class="col-2 item">鍵盤 / 滑鼠</div>
-                <div class="col-2 brand">
+                <div class="item">鍵盤 / 滑鼠</div>
+                <div class="brand">
                     <form class="widget brand">
                         <select name="brand">
                             <option>商品名稱</option>
@@ -672,7 +672,7 @@
                         </div>
                     </form>
                 </div>
-                <div class="col-4 productname">
+                <div class="productname">
                     <form class="widget productname">
                         <select name="productname">
                             <option>商品名稱</option>
@@ -694,8 +694,8 @@
                         </div>
                     </form>
                 </div>
-                <div class="col itemprice">$0</div>
-                <div class="col amount">
+                <div class="itemprice">$1000</div>
+                <div class="amount">
                     <form class="widget amount">
                         <select name="amount">
                             <option>商品名稱</option>
@@ -717,8 +717,8 @@
                         </div>
                     </form>
                 </div>
-                <div class="col sub price">$0</div>
-                <div class="col add">
+                <div class="sub price">$1000</div>
+                <div class="add">
                     <span>
                         <i class="fas fa-plus-circle "></i>
                     </span>
@@ -730,8 +730,8 @@
             </div>
             <!-- 散熱器 -->
             <div class="up-table row">
-                <div class="col-2 item">散熱器</div>
-                <div class="col-2 brand">
+                <div class="item">散熱器</div>
+                <div class="brand">
                     <form class="widget brand">
                         <select name="brand">
                             <option>商品名稱</option>
@@ -752,7 +752,7 @@
                         </div>
                     </form>
                 </div>
-                <div class="col-4 productname">
+                <div class="productname">
                     <form class="widget productname">
                         <select name="productname">
                             <option>商品名稱</option>
@@ -774,8 +774,8 @@
                         </div>
                     </form>
                 </div>
-                <div class="col itemprice">$0</div>
-                <div class="col amount">
+                <div class="itemprice">$1000</div>
+                <div class="amount">
                     <form class="widget amount">
                         <select name="amount">
                             <option>商品名稱</option>
@@ -797,8 +797,8 @@
                         </div>
                     </form>
                 </div>
-                <div class="col sub price">$0</div>
-                <div class="col add">
+                <div class="sub price">$1000</div>
+                <div class="add">
                     <span>
                         <i class="fas fa-plus-circle "></i>
                     </span>
@@ -806,8 +806,8 @@
             </div>
             <!-- 散熱膏 -->
             <div class="up-table row">
-                <div class="col-2 item">散熱膏</div>
-                <div class="col-2 brand">
+                <div class="item">散熱膏</div>
+                <div class="brand">
                     <form class="widget brand">
                         <select name="brand">
                             <option>商品名稱</option>
@@ -828,7 +828,7 @@
                         </div>
                     </form>
                 </div>
-                <div class="col-4 productname">
+                <div class="productname">
                     <form class="widget productname">
                         <select name="productname">
                             <option>商品名稱</option>
@@ -850,8 +850,8 @@
                         </div>
                     </form>
                 </div>
-                <div class="col itemprice">$0</div>
-                <div class="col amount">
+                <div class="itemprice">$1000</div>
+                <div class="amount">
                     <form class="widget amount">
                         <select name="amount">
                             <option>商品名稱</option>
@@ -873,8 +873,8 @@
                         </div>
                     </form>
                 </div>
-                <div class="col sub price">$0</div>
-                <div class="col add">
+                <div class="sub price">$1000</div>
+                <div class="add">
                     <span>
                         <i class="fas fa-plus-circle "></i>
                     </span>
@@ -882,8 +882,8 @@
             </div>
             <!-- 水冷 -->
             <div class="up-table row">
-                <div class="col-2 item">水冷</div>
-                <div class="col-2 brand">
+                <div class="item">水冷</div>
+                <div class="brand">
                     <form class="widget brand">
                         <select name="brand">
                             <option>商品名稱</option>
@@ -904,7 +904,7 @@
                         </div>
                     </form>
                 </div>
-                <div class="col-4 productname">
+                <div class="productname">
                     <form class="widget productname">
                         <select name="productname">
                             <option>商品名稱</option>
@@ -926,8 +926,8 @@
                         </div>
                     </form>
                 </div>
-                <div class="col itemprice">$0</div>
-                <div class="col amount">
+                <div class="itemprice">$1000</div>
+                <div class="amount">
                     <form class="widget amount">
                         <select name="amount">
                             <option>商品名稱</option>
@@ -949,8 +949,8 @@
                         </div>
                     </form>
                 </div>
-                <div class="col sub price">$0</div>
-                <div class="col add">
+                <div class="sub price">$1000</div>
+                <div class="add">
                     <span>
                         <i class="fas fa-plus-circle "></i>
                     </span>
@@ -962,8 +962,8 @@
             </div>
             <!-- 外接硬碟 -->
             <div class="up-table row">
-                <div class="col-2 item">外接硬碟</div>
-                <div class="col-2 brand">
+                <div class="item">外接硬碟</div>
+                <div class="brand">
                     <form class="widget brand">
                         <select name="brand">
                             <option>商品名稱</option>
@@ -984,7 +984,7 @@
                         </div>
                     </form>
                 </div>
-                <div class="col-4 productname">
+                <div class="productname">
                     <form class="widget productname">
                         <select name="productname">
                             <option>商品名稱</option>
@@ -1006,8 +1006,8 @@
                         </div>
                     </form>
                 </div>
-                <div class="col itemprice">$0</div>
-                <div class="col amount">
+                <div class="itemprice">$1000</div>
+                <div class="amount">
                     <form class="widget amount">
                         <select name="amount">
                             <option>商品名稱</option>
@@ -1029,8 +1029,8 @@
                         </div>
                     </form>
                 </div>
-                <div class="col sub price">$0</div>
-                <div class="col add">
+                <div class="sub price">$1000</div>
+                <div class="add">
                     <span>
                         <i class="fas fa-plus-circle "></i>
                     </span>
@@ -1038,8 +1038,8 @@
             </div>
             <!-- 隨身碟 USB -->
             <div class="up-table row">
-                <div class="col-2 item">隨身碟 USB</div>
-                <div class="col-2 brand">
+                <div class="item">隨身碟 USB</div>
+                <div class="brand">
                     <form class="widget brand">
                         <select name="brand">
                             <option>商品名稱</option>
@@ -1060,7 +1060,7 @@
                         </div>
                     </form>
                 </div>
-                <div class="col-4 productname">
+                <div class="productname">
                     <form class="widget productname">
                         <select name="productname">
                             <option>商品名稱</option>
@@ -1082,8 +1082,8 @@
                         </div>
                     </form>
                 </div>
-                <div class="col itemprice">$0</div>
-                <div class="col amount">
+                <div class="itemprice">$1000</div>
+                <div class="amount">
                     <form class="widget amount">
                         <select name="amount">
                             <option>商品名稱</option>
@@ -1105,8 +1105,8 @@
                         </div>
                     </form>
                 </div>
-                <div class="col sub price">$0</div>
-                <div class="col add">
+                <div class="sub price">$1000</div>
+                <div class="add">
                     <span>
                         <i class="fas fa-plus-circle "></i>
                     </span>
@@ -1114,8 +1114,8 @@
             </div>
             <!-- 記憶卡 -->
             <div class="up-table row">
-                <div class="col-2 item">記憶卡</div>
-                <div class="col-2 brand">
+                <div class="item">記憶卡</div>
+                <div class="brand">
                     <form class="widget brand">
                         <select name="brand">
                             <option>商品名稱</option>
@@ -1136,7 +1136,7 @@
                         </div>
                     </form>
                 </div>
-                <div class="col-4 productname">
+                <div class="productname">
                     <form class="widget productname">
                         <select name="productname">
                             <option>商品名稱</option>
@@ -1158,8 +1158,8 @@
                         </div>
                     </form>
                 </div>
-                <div class="col itemprice">$0</div>
-                <div class="col amount">
+                <div class="itemprice">$1000</div>
+                <div class="amount">
                     <form class="widget amount">
                         <select name="amount">
                             <option>商品名稱</option>
@@ -1181,8 +1181,8 @@
                         </div>
                     </form>
                 </div>
-                <div class="col sub price">$0</div>
-                <div class="col add">
+                <div class="sub price">$1000</div>
+                <div class="add">
                     <span>
                         <i class="fas fa-plus-circle "></i>
                     </span>
@@ -1240,7 +1240,7 @@
             </div>
             <!-- 按鍵 -->
             <div class="d-flex justify-content-around">
-                <a href="/Upick/upick-list.html"><button class="btn wp-button wBtnNGr">匯出清單</button>
+                <a href="./upick-2-productlist.html"><button class="btn wp-button wBtnNGr">匯出清單</button>
                 </a>
                 <button class="btn wp-button wBtnNPk">結帳</button>
             </div>

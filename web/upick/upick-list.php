@@ -156,13 +156,14 @@
                 console.log('hi');
                 $('.wWhitePgAreaHTML9').show();
                 $('.up-container').parent().addClass('cover'); //顯示遮罩層
-                $('body').removeClass('cover')
+                $('.wShareDark').show();
             });
             
             $('.wWinDarkClo').click(function () {
                 $('.wWhitePgAreaHTML9').hide();
                 console.log('hello');
                 $('.up-container').parent().removeClass('cover');
+           
             });
     });
       
